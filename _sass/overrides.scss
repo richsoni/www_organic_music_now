@@ -1,0 +1,38 @@
+.home {
+  background-image: url('/images/bg2.png');
+  background-position: center center;
+  background-size: cover;
+  min-height: 50vh;
+  text-align: center;
+}
+
+.omn-promo {
+  margin: auto auto;
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.follow {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.follow h2 {
+
+}
+
+.icons {
+  font-size: 40px;
+}
+
+.icons a {
+  margin-left: .5em;
+}
+
+.itunes {
+  background-image: url('/images/itunes.svg');
+  width: 133px;
+  height: 34px;
+  display: inline-block;
+  margin-top: 15px;
+}
